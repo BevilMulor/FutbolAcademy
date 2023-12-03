@@ -1,4 +1,4 @@
-git clone https://github.com/BevilMulor/FutbolAcademap
+git clone https://github.com/BevilMulor/FutbolAcademy.git
 
 cd bsa
 
