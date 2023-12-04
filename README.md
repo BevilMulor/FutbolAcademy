@@ -1,14 +1,16 @@
+# Triple S Football Academy
+
+## Install
+```
 git clone https://github.com/BevilMulor/FutbolAcademy.git
-
-cd bsa
-
+cd Triple S
 npm install
-
 bundle install
-
 jekyll build
-
 gulp
+```
 
-Humans
+## Humans
+
 Built by @BevilMulor
+
